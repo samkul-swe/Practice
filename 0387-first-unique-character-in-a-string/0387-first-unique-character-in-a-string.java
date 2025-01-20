@@ -3,24 +3,17 @@ class Solution {
         Map<Character,Integer> charMap = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
             if (!(charMap.containsKey(s.charAt(i)))) {
-                charMap.put(s.charAt(i),i);
+                charMap.put(s.charAt(i),0);
             } else {
-                charMap.put(s.charAt(i),-1);
+                charMap.put(s.charAt(i),1);
             }
         }
 
-        int leastIndex = 1000000;
-
-        for (Map.Entry<Character,Integer> entry : charMap.entrySet()) {
-            if (entry.getValue() != -1) {
-               if (entry.getValue() < leastIndex) {
-                    leastIndex = entry.getValue();
-               } 
+        for (int i = 0; i < s.length(); i++) {
+            if (charMap.get(s.charAt(i)) == 0) {
+               return i;
             }
         }
-        if (leastIndex == 1000000) {
-            return -1;
-        }
-        return leastIndex;
+        return -1;
     }
 }
