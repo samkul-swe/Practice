@@ -8,6 +8,7 @@ Practice repository for coding
 | ------- |
 | [0001-two-sum](https://github.com/samkul-swe/Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,5 +51,6 @@ Practice repository for coding
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
