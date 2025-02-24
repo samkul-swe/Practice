@@ -9,6 +9,7 @@ Practice repository for coding
 | [0001-two-sum](https://github.com/samkul-swe/Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/samkul-swe/Practice/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 ## Hash Table
@@ -78,4 +79,8 @@ Practice repository for coding
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/samkul-swe/Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
