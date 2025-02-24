@@ -39,6 +39,7 @@ Practice repository for coding
 | [0006-zigzag-conversion](https://github.com/samkul-swe/Practice/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,8 +72,10 @@ Practice repository for coding
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
