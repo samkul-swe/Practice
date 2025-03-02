@@ -1,19 +1,19 @@
 class Solution {
     public int mySqrt(int x) {
-        if (x == 0 || x == 1) {
-            return x;
-        }
-        int answer = 1;
-        long sqr = 1;
-        while (sqr < x) {
-            sqr = (long)answer * (long)answer;
-            if (sqr == x) {
-                return answer;
-            } else if (sqr > x) {
-                return answer - 1;
+        long l = 0,r = x;
+        long res = 0;
+        long m;
+        while (l <= r) {
+            m = l + ((r-l)/2);
+            if (m*m > x) {
+                r = m-1;
+            } else if (m*m < x) {
+                l = m+1;
+                res = m;
+            } else {
+                return (int)m;
             }
-            answer += 1;
         }
-        return answer;
+        return (int)res;
     }
 }
