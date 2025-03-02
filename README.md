@@ -25,6 +25,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samkul-swe/Practice/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/samkul-swe/Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
