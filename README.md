@@ -63,6 +63,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -151,4 +152,12 @@ Practice repository for coding
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
