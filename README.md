@@ -25,6 +25,7 @@ Practice repository for coding
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
@@ -58,6 +59,7 @@ Practice repository for coding
 | [0058-length-of-last-word](https://github.com/samkul-swe/Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -65,6 +67,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Queue
