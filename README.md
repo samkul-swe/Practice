@@ -25,6 +25,7 @@ Practice repository for coding
 | ------- |
 | [0001-two-sum](https://github.com/samkul-swe/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -44,6 +45,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samkul-swe/Practice/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/samkul-swe/Practice/tree/master/0069-sqrtx) |
@@ -58,6 +60,7 @@ Practice repository for coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/samkul-swe/Practice/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/samkul-swe/Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
