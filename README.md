@@ -11,6 +11,7 @@ Practice repository for coding
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samkul-swe/Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -97,6 +98,7 @@ Practice repository for coding
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ Practice repository for coding
 | [0100-same-tree](https://github.com/samkul-swe/Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/samkul-swe/Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ Practice repository for coding
 | [0100-same-tree](https://github.com/samkul-swe/Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/samkul-swe/Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,4 +184,8 @@ Practice repository for coding
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
