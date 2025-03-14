@@ -34,6 +34,7 @@ Practice repository for coding
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Linked List
@@ -70,6 +71,7 @@ Practice repository for coding
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 | [1894-merge-strings-alternately](https://github.com/samkul-swe/Practice/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -90,6 +92,7 @@ Practice repository for coding
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samkul-swe/Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
