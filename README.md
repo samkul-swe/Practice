@@ -15,6 +15,7 @@ Practice repository for coding
 | [0118-pascals-triangle](https://github.com/samkul-swe/Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/samkul-swe/Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -137,6 +138,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
