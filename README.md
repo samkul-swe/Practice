@@ -18,6 +18,7 @@ Practice repository for coding
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/samkul-swe/Practice/tree/master/0228-summary-ranges) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
