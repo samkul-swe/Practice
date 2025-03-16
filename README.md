@@ -17,6 +17,7 @@ Practice repository for coding
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
@@ -31,6 +32,7 @@ Practice repository for coding
 | [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -80,6 +82,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
