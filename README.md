@@ -26,6 +26,7 @@ Practice repository for coding
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
+| [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samkul-swe/Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -118,6 +119,7 @@ Practice repository for coding
 | [0283-move-zeroes](https://github.com/samkul-swe/Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/samkul-swe/Practice/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Practice repository for coding
 | ------- |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
