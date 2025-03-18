@@ -23,6 +23,7 @@ Practice repository for coding
 | [0303-range-sum-query-immutable](https://github.com/samkul-swe/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samkul-swe/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -42,6 +43,7 @@ Practice repository for coding
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samkul-swe/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
