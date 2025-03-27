@@ -12,15 +12,11 @@ class Solution {
                 }
             }
 
-            System.out.println(map);
-
             for (int i = 0; i < magazine.length(); i ++) {
                 if (map.containsKey(magazine.charAt(i))) {
                     map.put(magazine.charAt(i),map.get(magazine.charAt(i)) - 1);
                 }
             }
-
-            System.out.println(map);
 
             for (Map.Entry<Character,Integer> entry : map.entrySet()) {
                 if (entry.getValue() <= 0) {
