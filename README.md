@@ -92,6 +92,7 @@ Practice repository for coding
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/samkul-swe/Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/samkul-swe/Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -132,6 +133,7 @@ Practice repository for coding
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/samkul-swe/Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/samkul-swe/Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
