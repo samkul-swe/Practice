@@ -109,6 +109,7 @@ Practice repository for coding
 | [1894-merge-strings-alternately](https://github.com/samkul-swe/Practice/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samkul-swe/Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/samkul-swe/Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3447-clear-digits](https://github.com/samkul-swe/Practice/tree/master/3447-clear-digits) |
@@ -260,6 +261,7 @@ Practice repository for coding
 ## Greedy
 |  |
 | ------- |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/samkul-swe/Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
