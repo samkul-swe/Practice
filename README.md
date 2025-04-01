@@ -17,6 +17,7 @@ Practice repository for coding
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/samkul-swe/Practice/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/samkul-swe/Practice/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ Practice repository for coding
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samkul-swe/Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/samkul-swe/Practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/samkul-swe/Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -167,6 +169,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samkul-swe/Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
