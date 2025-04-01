@@ -225,6 +225,7 @@ Practice repository for coding
 | [0110-balanced-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/samkul-swe/Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Practice repository for coding
 | [0112-path-sum](https://github.com/samkul-swe/Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/samkul-swe/Practice/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Practice repository for coding
 | [0110-balanced-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/samkul-swe/Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,6 +259,7 @@ Practice repository for coding
 | [0112-path-sum](https://github.com/samkul-swe/Practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/samkul-swe/Practice/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/samkul-swe/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
