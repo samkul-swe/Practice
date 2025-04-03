@@ -1,27 +1,20 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> count = new HashMap<>();
         for (int num : nums) {
-            map.putIfAbsent(num,1);
-            map.put(num,map.get(num) + 1);
+            count.put(num, count.getOrDefault(num, 0) + 1);
         }
 
-        Map<Integer,Integer> sortedMapReverseOrder =  map.entrySet().
-            stream().
-            sorted(Map.Entry.comparingByValue(Comparator.reverseOrder())).
-            collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
-
-        List<Integer> mapKeys = new ArrayList<>();
-        for (Map.Entry<Integer, Integer> mapEntry : sortedMapReverseOrder.entrySet()) {
-            mapKeys.add(mapEntry.getKey());
+        List<int[]> arr = new ArrayList<>();
+        for (Map.Entry<Integer, Integer> entry : count.entrySet()) {
+            arr.add(new int[] {entry.getValue(), entry.getKey()});
         }
-        List<Integer> answer = new ArrayList<>();
-        while(k > 0) {
-            answer.add(mapKeys.get(0));
-            mapKeys.remove(0);
-            k --;
-        }
+        arr.sort((a, b) -> b[0] - a[0]);
 
-        return answer.stream().mapToInt(Integer::intValue).toArray();
+        int[] res = new int[k];
+        for (int i = 0; i < k; i++) {
+            res[i] = arr.get(i)[1];
+        }
+        return res;
     }
 }
