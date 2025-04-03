@@ -10,6 +10,7 @@ Practice repository for coding
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samkul-swe/Practice/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/samkul-swe/Practice/tree/master/0118-pascals-triangle) |
@@ -48,6 +49,7 @@ Practice repository for coding
 | [0001-two-sum](https://github.com/samkul-swe/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samkul-swe/Practice/tree/master/0202-happy-number) |
@@ -100,6 +102,7 @@ Practice repository for coding
 | [0006-zigzag-conversion](https://github.com/samkul-swe/Practice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/samkul-swe/Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/samkul-swe/Practice/tree/master/0125-valid-palindrome) |
@@ -171,6 +174,7 @@ Practice repository for coding
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samkul-swe/Practice/tree/master/0242-valid-anagram) |
