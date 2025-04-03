@@ -23,6 +23,7 @@ Practice repository for coding
 | [0228-summary-ranges](https://github.com/samkul-swe/Practice/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/samkul-swe/Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/samkul-swe/Practice/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samkul-swe/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@ Practice repository for coding
 | [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/samkul-swe/Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/samkul-swe/Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,6 +143,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/samkul-swe/Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -171,6 +174,7 @@ Practice repository for coding
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/samkul-swe/Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/samkul-swe/Practice/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +182,7 @@ Practice repository for coding
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samkul-swe/Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
@@ -289,6 +294,7 @@ Practice repository for coding
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Design
@@ -314,4 +320,12 @@ Practice repository for coding
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/samkul-swe/Practice/tree/master/0496-next-greater-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
