@@ -33,6 +33,7 @@ Practice repository for coding
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samkul-swe/Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -93,6 +94,7 @@ Practice repository for coding
 | [0202-happy-number](https://github.com/samkul-swe/Practice/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -222,6 +224,7 @@ Practice repository for coding
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/samkul-swe/Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/samkul-swe/Practice/tree/master/0191-number-of-1-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
@@ -337,4 +340,16 @@ Practice repository for coding
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
