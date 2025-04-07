@@ -65,6 +65,7 @@ Practice repository for coding
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/samkul-swe/Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samkul-swe/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/samkul-swe/Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
@@ -119,6 +120,7 @@ Practice repository for coding
 | [0345-reverse-vowels-of-a-string](https://github.com/samkul-swe/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/samkul-swe/Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
@@ -197,6 +199,7 @@ Practice repository for coding
 | [0242-valid-anagram](https://github.com/samkul-swe/Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -227,6 +230,7 @@ Practice repository for coding
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/samkul-swe/Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/samkul-swe/Practice/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
