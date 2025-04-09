@@ -10,6 +10,7 @@ Practice repository for coding
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samkul-swe/Practice/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/samkul-swe/Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -357,6 +358,7 @@ Practice repository for coding
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/samkul-swe/Practice/tree/master/0046-permutations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
