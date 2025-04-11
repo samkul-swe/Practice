@@ -22,6 +22,7 @@ Practice repository for coding
 | [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/samkul-swe/Practice/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/samkul-swe/Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samkul-swe/Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/samkul-swe/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
@@ -342,6 +343,7 @@ Practice repository for coding
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/samkul-swe/Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/samkul-swe/Practice/tree/master/0303-range-sum-query-immutable) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
