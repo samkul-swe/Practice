@@ -104,6 +104,7 @@ Practice repository for coding
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/samkul-swe/Practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/samkul-swe/Practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -113,6 +114,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samkul-swe/Practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Practice repository for coding
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/samkul-swe/Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/samkul-swe/Practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
