@@ -34,6 +34,7 @@ Practice repository for coding
 | [0496-next-greater-element-i](https://github.com/samkul-swe/Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -220,6 +221,7 @@ Practice repository for coding
 | [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
 |  |
@@ -328,6 +330,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/samkul-swe/Practice/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/samkul-swe/Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
@@ -383,4 +386,8 @@ Practice repository for coding
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/samkul-swe/Practice/tree/master/2998-count-symmetric-integers) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
