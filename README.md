@@ -35,6 +35,7 @@ Practice repository for coding
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
+| [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -378,6 +379,7 @@ Practice repository for coding
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/samkul-swe/Practice/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
