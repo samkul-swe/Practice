@@ -109,6 +109,7 @@ Practice repository for coding
 | [0069-sqrtx](https://github.com/samkul-swe/Practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/samkul-swe/Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -263,6 +264,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/samkul-swe/Practice/tree/master/0495-teemo-attacking) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -395,4 +397,8 @@ Practice repository for coding
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
