@@ -10,6 +10,7 @@ Practice repository for coding
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samkul-swe/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/samkul-swe/Practice/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/samkul-swe/Practice/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/samkul-swe/Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ Practice repository for coding
 | [0001-two-sum](https://github.com/samkul-swe/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/samkul-swe/Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samkul-swe/Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -335,6 +337,7 @@ Practice repository for coding
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/samkul-swe/Practice/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/samkul-swe/Practice/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
