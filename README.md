@@ -41,6 +41,7 @@ Practice repository for coding
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samkul-swe/Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/samkul-swe/Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
