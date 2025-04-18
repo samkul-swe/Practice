@@ -42,6 +42,7 @@ Practice repository for coding
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samkul-swe/Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/samkul-swe/Practice/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -274,6 +275,7 @@ Practice repository for coding
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/samkul-swe/Practice/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
+| [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
