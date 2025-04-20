@@ -270,6 +270,7 @@ Practice repository for coding
 | [0191-number-of-1-bits](https://github.com/samkul-swe/Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/samkul-swe/Practice/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -400,6 +401,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0046-permutations](https://github.com/samkul-swe/Practice/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/samkul-swe/Practice/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
