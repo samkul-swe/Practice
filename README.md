@@ -120,6 +120,7 @@ Practice repository for coding
 | [0202-happy-number](https://github.com/samkul-swe/Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/samkul-swe/Practice/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
