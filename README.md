@@ -42,6 +42,7 @@ Practice repository for coding
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/samkul-swe/Practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samkul-swe/Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -281,6 +282,7 @@ Practice repository for coding
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/samkul-swe/Practice/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
+| [2048-build-array-from-permutation](https://github.com/samkul-swe/Practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samkul-swe/Practice/tree/master/2265-partition-array-according-to-given-pivot) |
