@@ -162,6 +162,7 @@ Practice repository for coding
 | [1205-defanging-an-ip-address](https://github.com/samkul-swe/Practice/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
+| [1797-goal-parser-interpretation](https://github.com/samkul-swe/Practice/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/samkul-swe/Practice/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/samkul-swe/Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samkul-swe/Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
