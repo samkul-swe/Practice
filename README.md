@@ -156,6 +156,7 @@ Practice repository for coding
 | [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/samkul-swe/Practice/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
+| [0657-robot-return-to-origin](https://github.com/samkul-swe/Practice/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/samkul-swe/Practice/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/samkul-swe/Practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
@@ -289,6 +290,7 @@ Practice repository for coding
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/samkul-swe/Practice/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/samkul-swe/Practice/tree/master/0657-robot-return-to-origin) |
 | [2048-build-array-from-permutation](https://github.com/samkul-swe/Practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
