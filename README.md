@@ -123,6 +123,7 @@ Practice repository for coding
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/samkul-swe/Practice/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/samkul-swe/Practice/tree/master/0326-power-of-three) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
@@ -137,6 +138,7 @@ Practice repository for coding
 | [0002-add-two-numbers](https://github.com/samkul-swe/Practice/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/samkul-swe/Practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/samkul-swe/Practice/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
