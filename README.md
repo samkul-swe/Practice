@@ -89,6 +89,7 @@ Practice repository for coding
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/samkul-swe/Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samkul-swe/Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -122,6 +123,7 @@ Practice repository for coding
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/samkul-swe/Practice/tree/master/0263-ugly-number) |
+| [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
