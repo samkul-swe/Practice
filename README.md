@@ -259,6 +259,7 @@ Practice repository for coding
 | [0118-pascals-triangle](https://github.com/samkul-swe/Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/samkul-swe/Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/samkul-swe/Practice/tree/master/0338-counting-bits) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## String Matching
@@ -282,6 +283,7 @@ Practice repository for coding
 | [0190-reverse-bits](https://github.com/samkul-swe/Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/samkul-swe/Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/samkul-swe/Practice/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/samkul-swe/Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/samkul-swe/Practice/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
