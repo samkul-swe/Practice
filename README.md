@@ -61,6 +61,7 @@ Practice repository for coding
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samkul-swe/Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/samkul-swe/Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/samkul-swe/Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
