@@ -38,6 +38,7 @@ Practice repository for coding
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -128,6 +129,7 @@ Practice repository for coding
 | [0263-ugly-number](https://github.com/samkul-swe/Practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/samkul-swe/Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/samkul-swe/Practice/tree/master/0326-power-of-three) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
