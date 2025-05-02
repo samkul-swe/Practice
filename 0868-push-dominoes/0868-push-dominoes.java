@@ -1,39 +1,68 @@
 class Solution {
     public String pushDominoes(String dominoes) {
-        int len = dominoes.length();
-        int[] left = new int[len];
-        int[] right = new int[len];
-        for(int i=0, lastR = -1;i<len;i++) {
-            if(dominoes.charAt(i)=='R') {
-                lastR = i;
-            } else if(dominoes.charAt(i)=='L'){
-                lastR = -1;
-            } else {
-                if(lastR!=-1) right[i] = i-lastR;
+        
+        StringBuilder sb = new StringBuilder(dominoes);
+        
+        int n = sb.length();
+        
+        
+        //mark true for all the unpushed block, after pushing a bloch in right direction
+        char prev = '.';
+        boolean[] forward = new boolean[n];
+        for(int i = 0; i < n; i++){
+            char c = dominoes.charAt(i);
+            if(c == '.'){
+                if(prev == 'R') forward[i] = true; 
+            }else{
+                prev = c;
             }
         }
-        for(int i=len-1, lastL = len;i>=0;i--) {
-            if(dominoes.charAt(i)=='L') {
-                lastL = i;
-            } else if(dominoes.charAt(i)=='R') {
-                lastL = len;
-            } else {
-                if(lastL!=len) left[i] = lastL-i;
+        
+        //mark true for all the unpushed block, after pushing a block in left direction
+        prev = '.';
+        boolean[] backward  = new boolean[n];
+        for(int i = n - 1; i >= 0; i--){
+            char c = dominoes.charAt(i);
+            if(c == '.'){
+                if(prev == 'L') backward[i] = true; 
+            }else{
+                prev = c;
             }
         }
-        StringBuilder sb = new StringBuilder();
-        for(int i=0;i<len;i++) {
-            char cur = dominoes.charAt(i);
-            if(cur=='L') sb.append("L");
-            else if(cur=='R') sb.append("R");
-            else {
-                if(right[i]==0 && left[i]!=0) sb.append("L");
-                else if(left[i]==0 && right[i]!=0) sb.append("R");
-                else if(right[i]<left[i]) sb.append("R");
-                else if(right[i]>left[i]) sb.append("L");
-                else sb.append(".");
+        
+        int i = 0;
+        while(i < n){
+            if(backward[i] && !forward[i]){
+                //fall block as there is force in left direction
+                sb.setCharAt(i++, 'L');
+                
+            }else if(!backward[i] && forward[i]){
+                //fall block as there is force in right direction
+                sb.setCharAt(i++, 'R');
+                
+            }else if(backward[i] && forward[i]){
+                //fall block as there is force in both  direction
+                int j = (i + 1);
+                while(j < n && backward[j] && forward[j]){
+                    j++;
+                }
+                pushDominoesInBetween(sb, i, j - 1);
+                i = j;
+            }else{
+                i++;
             }
+            
         }
+        
         return sb.toString();
+    }
+    
+    
+    private void pushDominoesInBetween(StringBuilder sb, int l, int r){
+        while(l < r){
+            sb.setCharAt(l++, 'R');
+            sb.setCharAt(r--, 'L');
+        }
+        
     }
 }
