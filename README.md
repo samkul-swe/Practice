@@ -173,6 +173,7 @@ Practice repository for coding
 | [0680-valid-palindrome-ii](https://github.com/samkul-swe/Practice/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/samkul-swe/Practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
+| [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/samkul-swe/Practice/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
@@ -237,6 +238,7 @@ Practice repository for coding
 | [0541-reverse-string-ii](https://github.com/samkul-swe/Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samkul-swe/Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/samkul-swe/Practice/tree/master/0680-valid-palindrome-ii) |
+| [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/samkul-swe/Practice/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/samkul-swe/Practice/tree/master/2128-reverse-prefix-of-word) |
@@ -272,6 +274,7 @@ Practice repository for coding
 | [0119-pascals-triangle-ii](https://github.com/samkul-swe/Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/samkul-swe/Practice/tree/master/0338-counting-bits) |
+| [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## String Matching
