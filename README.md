@@ -38,6 +38,7 @@ Practice repository for coding
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
@@ -91,6 +92,7 @@ Practice repository for coding
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -214,6 +216,7 @@ Practice repository for coding
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/samkul-swe/Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/samkul-swe/Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samkul-swe/Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
