@@ -131,6 +131,7 @@ Practice repository for coding
 | [0263-ugly-number](https://github.com/samkul-swe/Practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/samkul-swe/Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/samkul-swe/Practice/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/samkul-swe/Practice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -168,6 +169,7 @@ Practice repository for coding
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samkul-swe/Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/samkul-swe/Practice/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/samkul-swe/Practice/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/samkul-swe/Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samkul-swe/Practice/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -312,6 +314,7 @@ Practice repository for coding
 | ------- |
 | [0067-add-binary](https://github.com/samkul-swe/Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/samkul-swe/Practice/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/samkul-swe/Practice/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/samkul-swe/Practice/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/samkul-swe/Practice/tree/master/0657-robot-return-to-origin) |
