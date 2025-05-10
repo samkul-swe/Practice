@@ -131,6 +131,7 @@ Practice repository for coding
 | [0263-ugly-number](https://github.com/samkul-swe/Practice/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/samkul-swe/Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/samkul-swe/Practice/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/samkul-swe/Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/samkul-swe/Practice/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
@@ -294,6 +295,7 @@ Practice repository for coding
 | [0069-sqrtx](https://github.com/samkul-swe/Practice/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/samkul-swe/Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/samkul-swe/Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/samkul-swe/Practice/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samkul-swe/Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
