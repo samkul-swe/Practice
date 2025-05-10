@@ -38,6 +38,7 @@ Practice repository for coding
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/samkul-swe/Practice/tree/master/0598-range-addition-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -133,6 +134,7 @@ Practice repository for coding
 | [0326-power-of-three](https://github.com/samkul-swe/Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/samkul-swe/Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/samkul-swe/Practice/tree/master/0412-fizz-buzz) |
+| [0598-range-addition-ii](https://github.com/samkul-swe/Practice/tree/master/0598-range-addition-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
