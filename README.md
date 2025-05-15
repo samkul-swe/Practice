@@ -58,6 +58,7 @@ Practice repository for coding
 | [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samkul-swe/Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samkul-swe/Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/samkul-swe/Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/samkul-swe/Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -196,6 +197,7 @@ Practice repository for coding
 | [2128-reverse-prefix-of-word](https://github.com/samkul-swe/Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/samkul-swe/Practice/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/samkul-swe/Practice/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -285,6 +287,7 @@ Practice repository for coding
 | [0338-counting-bits](https://github.com/samkul-swe/Practice/tree/master/0338-counting-bits) |
 | [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## String Matching
 |  |
@@ -405,6 +408,7 @@ Practice repository for coding
 | [0680-valid-palindrome-ii](https://github.com/samkul-swe/Practice/tree/master/0680-valid-palindrome-ii) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/samkul-swe/Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
