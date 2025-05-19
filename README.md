@@ -63,6 +63,7 @@ Practice repository for coding
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/samkul-swe/Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/samkul-swe/Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/samkul-swe/Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -149,6 +150,7 @@ Practice repository for coding
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/samkul-swe/Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/samkul-swe/Practice/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Practice repository for coding
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
