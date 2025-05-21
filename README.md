@@ -14,6 +14,7 @@ Practice repository for coding
 | [0046-permutations](https://github.com/samkul-swe/Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/samkul-swe/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/samkul-swe/Practice/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/samkul-swe/Practice/tree/master/0118-pascals-triangle) |
@@ -79,6 +80,7 @@ Practice repository for coding
 | [0013-roman-to-integer](https://github.com/samkul-swe/Practice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/samkul-swe/Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/samkul-swe/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samkul-swe/Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
@@ -407,6 +409,7 @@ Practice repository for coding
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/samkul-swe/Practice/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/samkul-swe/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/samkul-swe/Practice/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
