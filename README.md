@@ -42,6 +42,7 @@ Practice repository for coding
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/samkul-swe/Practice/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samkul-swe/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/samkul-swe/Practice/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -145,6 +146,7 @@ Practice repository for coding
 | [0367-valid-perfect-square](https://github.com/samkul-swe/Practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/samkul-swe/Practice/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/samkul-swe/Practice/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samkul-swe/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
@@ -293,6 +295,7 @@ Practice repository for coding
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/samkul-swe/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
