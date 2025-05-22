@@ -40,6 +40,7 @@ Practice repository for coding
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/samkul-swe/Practice/tree/master/0598-range-addition-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/samkul-swe/Practice/tree/master/1293-three-consecutive-odds) |
@@ -99,6 +100,7 @@ Practice repository for coding
 | [0496-next-greater-element-i](https://github.com/samkul-swe/Practice/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/samkul-swe/Practice/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -214,6 +216,7 @@ Practice repository for coding
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/samkul-swe/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/samkul-swe/Practice/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/samkul-swe/Practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -232,6 +235,7 @@ Practice repository for coding
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/samkul-swe/Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/samkul-swe/Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -288,6 +292,7 @@ Practice repository for coding
 | [0414-third-maximum-number](https://github.com/samkul-swe/Practice/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
