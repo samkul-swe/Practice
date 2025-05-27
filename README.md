@@ -159,6 +159,7 @@ Practice repository for coding
 | [2812-find-the-maximum-achievable-number](https://github.com/samkul-swe/Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/samkul-swe/Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/samkul-swe/Practice/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/samkul-swe/Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 ## Recursion
