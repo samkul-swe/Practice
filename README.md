@@ -121,6 +121,7 @@ Practice repository for coding
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samkul-swe/Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/samkul-swe/Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -218,6 +219,7 @@ Practice repository for coding
 | [3379-score-of-a-string](https://github.com/samkul-swe/Practice/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/samkul-swe/Practice/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -253,6 +255,7 @@ Practice repository for coding
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samkul-swe/Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
