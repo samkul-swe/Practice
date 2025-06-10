@@ -20,6 +20,7 @@ Practice repository for coding
 | [0118-pascals-triangle](https://github.com/samkul-swe/Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/samkul-swe/Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samkul-swe/Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/samkul-swe/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/samkul-swe/Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samkul-swe/Practice/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ Practice repository for coding
 | [0036-valid-sudoku](https://github.com/samkul-swe/Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samkul-swe/Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/samkul-swe/Practice/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/samkul-swe/Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samkul-swe/Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samkul-swe/Practice/tree/master/0169-majority-element) |
@@ -517,4 +519,8 @@ Practice repository for coding
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/samkul-swe/Practice/tree/master/0292-nim-game) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/samkul-swe/Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
