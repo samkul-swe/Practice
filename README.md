@@ -16,6 +16,7 @@ Practice repository for coding
 | [0066-plus-one](https://github.com/samkul-swe/Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/samkul-swe/Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/samkul-swe/Practice/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samkul-swe/Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samkul-swe/Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/samkul-swe/Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/samkul-swe/Practice/tree/master/0119-pascals-triangle-ii) |
@@ -269,6 +270,7 @@ Practice repository for coding
 | [0027-remove-element](https://github.com/samkul-swe/Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/samkul-swe/Practice/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/samkul-swe/Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/samkul-swe/Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/samkul-swe/Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samkul-swe/Practice/tree/master/0160-intersection-of-two-linked-lists) |
