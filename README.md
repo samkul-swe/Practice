@@ -165,6 +165,7 @@ Practice repository for coding
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2556-convert-the-temperature](https://github.com/samkul-swe/Practice/tree/master/2556-convert-the-temperature) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/samkul-swe/Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/samkul-swe/Practice/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/samkul-swe/Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/samkul-swe/Practice/tree/master/2998-count-symmetric-integers) |
@@ -453,6 +454,7 @@ Practice repository for coding
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/samkul-swe/Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/samkul-swe/Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
