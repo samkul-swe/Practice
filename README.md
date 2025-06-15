@@ -161,6 +161,7 @@ Practice repository for coding
 | [0628-maximum-product-of-three-numbers](https://github.com/samkul-swe/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/samkul-swe/Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/samkul-swe/Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samkul-swe/Practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -450,6 +451,7 @@ Practice repository for coding
 | [0409-longest-palindrome](https://github.com/samkul-swe/Practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/samkul-swe/Practice/tree/master/0680-valid-palindrome-ii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/samkul-swe/Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/samkul-swe/Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/samkul-swe/Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
