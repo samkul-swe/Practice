@@ -1,20 +1,16 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int i = 0, j = s.length() - 1;
-        s = s.toLowerCase();
-        while (i < j) {
-            if (s.charAt(i) == s.charAt(j)) {
-                i ++;
-                j --;
-            } else if (s.charAt(i) == ' ' || s.charAt(i) == ',' || s.charAt(i) == ':' || s.charAt(i) == '.' || s.charAt(i) == '@' || s.charAt(i) == '#' || s.charAt(i) == '_' || s.charAt(i) == '\'' || s.charAt(i) == '{' || s.charAt(i) == '}' || s.charAt(i) == '\"' || s.charAt(i) == '[' || s.charAt(i) == ']' || s.charAt(i) == '-' || s.charAt(i) == '?' || s.charAt(i) == ';' || s.charAt(i) == '!' || s.charAt(i) == '\\' || s.charAt(i) == ')' || s.charAt(i) == '(' || s.charAt(i) == '`') {
-                i ++;
-            } else if (s.charAt(j) == ' ' || s.charAt(j) == ',' || s.charAt(j) == ':' || s.charAt(j) == '.' || s.charAt(j) == '@' || s.charAt(j) == '#' || s.charAt(j) == '_' || s.charAt(j) == '\'' || s.charAt(j) == '{' || s.charAt(j) == '}' || s.charAt(j) == '\"' || s.charAt(j) == '[' || s.charAt(j) == ']' || s.charAt(j) == '-' || s.charAt(j) == '?' || s.charAt(j) == ';' || s.charAt(j) == '!' || s.charAt(j) == '\\' || s.charAt(j) == ')' || s.charAt(j) == '(' || s.charAt(j) == '`') {
-                j --;
-            } else if (s.charAt(i) != s.charAt(j)) {
+        s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
+        int left = 0;
+        int right = s.length() - 1;
+
+        while (left < right) {
+            if (s.charAt(left) != s.charAt(right)) {
                 return false;
             }
+            left++;
+            right--;
         }
-        
-        return true;
+        return true;    
     }
 }
