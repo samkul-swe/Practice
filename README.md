@@ -76,6 +76,7 @@ Practice repository for coding
 | [3242-count-elements-with-maximum-frequency](https://github.com/samkul-swe/Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/samkul-swe/Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/samkul-swe/Practice/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samkul-swe/Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -446,6 +447,7 @@ Practice repository for coding
 | [0463-island-perimeter](https://github.com/samkul-swe/Practice/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/samkul-swe/Practice/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Greedy
 |  |
 | ------- |
