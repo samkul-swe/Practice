@@ -226,6 +226,7 @@ Practice repository for coding
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samkul-swe/Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/samkul-swe/Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/samkul-swe/Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -380,6 +381,7 @@ Practice repository for coding
 | [2048-build-array-from-permutation](https://github.com/samkul-swe/Practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/samkul-swe/Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samkul-swe/Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
