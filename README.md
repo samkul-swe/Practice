@@ -60,6 +60,7 @@ Practice repository for coding
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/samkul-swe/Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/samkul-swe/Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/samkul-swe/Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samkul-swe/Practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -124,6 +125,7 @@ Practice repository for coding
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/samkul-swe/Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samkul-swe/Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -330,6 +332,7 @@ Practice repository for coding
 | [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samkul-swe/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1306-minimum-absolute-difference](https://github.com/samkul-swe/Practice/tree/master/1306-minimum-absolute-difference) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/samkul-swe/Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/samkul-swe/Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -479,6 +482,7 @@ Practice repository for coding
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Design
 |  |
