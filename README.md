@@ -238,6 +238,7 @@ Practice repository for coding
 | [3379-score-of-a-string](https://github.com/samkul-swe/Practice/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/samkul-swe/Practice/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/samkul-swe/Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
