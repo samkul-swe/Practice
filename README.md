@@ -56,6 +56,7 @@ Practice repository for coding
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/samkul-swe/Practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/samkul-swe/Practice/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/samkul-swe/Practice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -126,6 +127,7 @@ Practice repository for coding
 | [1510-find-lucky-integer-in-an-array](https://github.com/samkul-swe/Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/samkul-swe/Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/samkul-swe/Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -497,6 +499,7 @@ Practice repository for coding
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/samkul-swe/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
