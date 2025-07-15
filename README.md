@@ -242,6 +242,7 @@ Practice repository for coding
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/samkul-swe/Practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/samkul-swe/Practice/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/samkul-swe/Practice/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/samkul-swe/Practice/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/samkul-swe/Practice/tree/master/3617-find-the-original-typed-string-i) |
