@@ -228,6 +228,7 @@ Practice repository for coding
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
 | [1205-defanging-an-ip-address](https://github.com/samkul-swe/Practice/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/samkul-swe/Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
 | [1797-goal-parser-interpretation](https://github.com/samkul-swe/Practice/tree/master/1797-goal-parser-interpretation) |
