@@ -54,6 +54,7 @@ Practice repository for coding
 | [1510-find-lucky-integer-in-an-array](https://github.com/samkul-swe/Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/samkul-swe/Practice/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/samkul-swe/Practice/tree/master/1656-count-good-triplets) |
+| [1917-maximum-average-pass-ratio](https://github.com/samkul-swe/Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/samkul-swe/Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/samkul-swe/Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -487,6 +488,7 @@ Practice repository for coding
 | [0561-array-partition](https://github.com/samkul-swe/Practice/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/samkul-swe/Practice/tree/master/0680-valid-palindrome-ii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/samkul-swe/Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1917-maximum-average-pass-ratio](https://github.com/samkul-swe/Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/samkul-swe/Practice/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/samkul-swe/Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -500,6 +502,7 @@ Practice repository for coding
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/samkul-swe/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
+| [1917-maximum-average-pass-ratio](https://github.com/samkul-swe/Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Design
