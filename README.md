@@ -197,6 +197,7 @@ Practice repository for coding
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/samkul-swe/Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samkul-swe/Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/samkul-swe/Practice/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
