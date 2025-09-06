@@ -94,6 +94,7 @@ Practice repository for coding
 | [3639-zero-array-transformation-i](https://github.com/samkul-swe/Practice/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/samkul-swe/Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/samkul-swe/Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/samkul-swe/Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/samkul-swe/Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/samkul-swe/Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -197,6 +198,7 @@ Practice repository for coding
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/samkul-swe/Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/samkul-swe/Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samkul-swe/Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/samkul-swe/Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/samkul-swe/Practice/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -405,6 +407,7 @@ Practice repository for coding
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/samkul-swe/Practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/samkul-swe/Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/samkul-swe/Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Simulation
 |  |
 | ------- |
