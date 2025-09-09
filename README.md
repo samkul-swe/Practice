@@ -283,6 +283,7 @@ Practice repository for coding
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/samkul-swe/Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/samkul-swe/Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/samkul-swe/Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
@@ -377,6 +378,7 @@ Practice repository for coding
 | [0338-counting-bits](https://github.com/samkul-swe/Practice/tree/master/0338-counting-bits) |
 | [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
 | [1764-maximum-repeating-substring](https://github.com/samkul-swe/Practice/tree/master/1764-maximum-repeating-substring) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/samkul-swe/Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/samkul-swe/Practice/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## String Matching
@@ -425,6 +427,7 @@ Practice repository for coding
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samkul-swe/Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/samkul-swe/Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samkul-swe/Practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/samkul-swe/Practice/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/samkul-swe/Practice/tree/master/3447-clear-digits) |
