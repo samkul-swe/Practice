@@ -258,6 +258,7 @@ Practice repository for coding
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/samkul-swe/Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2887-sort-vowels-in-a-string](https://github.com/samkul-swe/Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/samkul-swe/Practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/samkul-swe/Practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/samkul-swe/Practice/tree/master/3379-score-of-a-string) |
@@ -365,6 +366,7 @@ Practice repository for coding
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/samkul-swe/Practice/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2887-sort-vowels-in-a-string](https://github.com/samkul-swe/Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/samkul-swe/Practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/samkul-swe/Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/samkul-swe/Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
