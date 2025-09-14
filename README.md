@@ -47,6 +47,7 @@ Practice repository for coding
 | [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/samkul-swe/Practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/samkul-swe/Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1006-vowel-spellchecker](https://github.com/samkul-swe/Practice/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/samkul-swe/Practice/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/samkul-swe/Practice/tree/master/1306-minimum-absolute-difference) |
@@ -128,6 +129,7 @@ Practice repository for coding
 | [0575-distribute-candies](https://github.com/samkul-swe/Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/samkul-swe/Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
+| [1006-vowel-spellchecker](https://github.com/samkul-swe/Practice/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/samkul-swe/Practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/samkul-swe/Practice/tree/master/1500-count-largest-group) |
@@ -242,6 +244,7 @@ Practice repository for coding
 | [0742-to-lower-case](https://github.com/samkul-swe/Practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/samkul-swe/Practice/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/samkul-swe/Practice/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/samkul-swe/Practice/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/samkul-swe/Practice/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/samkul-swe/Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samkul-swe/Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
