@@ -73,6 +73,7 @@ Practice repository for coding
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/samkul-swe/Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/samkul-swe/Practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/samkul-swe/Practice/tree/master/2551-apply-operations-to-an-array) |
@@ -142,6 +143,7 @@ Practice repository for coding
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/samkul-swe/Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2486-most-frequent-even-element](https://github.com/samkul-swe/Practice/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -262,6 +264,7 @@ Practice repository for coding
 | [2128-reverse-prefix-of-word](https://github.com/samkul-swe/Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/samkul-swe/Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/samkul-swe/Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samkul-swe/Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samkul-swe/Practice/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2887-sort-vowels-in-a-string](https://github.com/samkul-swe/Practice/tree/master/2887-sort-vowels-in-a-string) |
@@ -534,6 +537,7 @@ Practice repository for coding
 | [0506-relative-ranks](https://github.com/samkul-swe/Practice/tree/master/0506-relative-ranks) |
 | [1917-maximum-average-pass-ratio](https://github.com/samkul-swe/Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Design
 |  |
@@ -541,6 +545,7 @@ Practice repository for coding
 | [0303-range-sum-query-immutable](https://github.com/samkul-swe/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -621,4 +626,8 @@ Practice repository for coding
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/samkul-swe/Practice/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/samkul-swe/Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
