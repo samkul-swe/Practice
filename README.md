@@ -153,6 +153,7 @@ Practice repository for coding
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/samkul-swe/Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/samkul-swe/Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/samkul-swe/Practice/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/samkul-swe/Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -539,6 +540,7 @@ Practice repository for coding
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/samkul-swe/Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/samkul-swe/Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3678-design-task-manager](https://github.com/samkul-swe/Practice/tree/master/3678-design-task-manager) |
 ## Design
 |  |
 | ------- |
@@ -546,6 +548,7 @@ Practice repository for coding
 | [0969-number-of-recent-calls](https://github.com/samkul-swe/Practice/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/samkul-swe/Practice/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -630,4 +633,5 @@ Practice repository for coding
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/samkul-swe/Practice/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
