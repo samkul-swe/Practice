@@ -100,6 +100,7 @@ Practice repository for coding
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/samkul-swe/Practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/samkul-swe/Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/samkul-swe/Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/samkul-swe/Practice/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Practice repository for coding
 | [3678-design-task-manager](https://github.com/samkul-swe/Practice/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/samkul-swe/Practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/samkul-swe/Practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -278,6 +280,7 @@ Practice repository for coding
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/samkul-swe/Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/samkul-swe/Practice/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/samkul-swe/Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/samkul-swe/Practice/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/samkul-swe/Practice/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -515,6 +518,7 @@ Practice repository for coding
 | [0566-reshape-the-matrix](https://github.com/samkul-swe/Practice/tree/master/0566-reshape-the-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/samkul-swe/Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/samkul-swe/Practice/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3797-design-spreadsheet](https://github.com/samkul-swe/Practice/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -549,6 +553,7 @@ Practice repository for coding
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/samkul-swe/Practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/samkul-swe/Practice/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/samkul-swe/Practice/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/samkul-swe/Practice/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
